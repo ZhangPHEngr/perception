@@ -1,8 +1,9 @@
-from __future__ import print_function
-import torch.utils.data as data
+
+
 import os
 import torch
 import numpy as np
+import torch.utils.data as data
 from Utils.io import *
 
 CURRENT_PATH = os.path.dirname(__file__)
