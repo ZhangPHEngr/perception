@@ -4,5 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Camera/2D感知/detection/SSD" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Camera/2D感知/detection/ssd.pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Camera/Detection/SSD" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Camera/Stereo/RAFT-Stereo" vcs="Git" />
   </component>
 </project>
